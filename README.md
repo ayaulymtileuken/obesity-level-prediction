@@ -64,5 +64,3 @@ Models were evaluated using:
 - Seaborn
 - Scikit-learn
 - XGBoost
-
-## Repository Structure
